@@ -43,7 +43,8 @@ flutter run
 ![Ürün Detay](screenshots/02-urun-detay.png)
 
 ### Sepet Sayacı
-![Sepet Sayacı](screenshots/03-sepet-sayaci.png)
+![Sepete Ekle 1](screenshots/03-sepet-ekle1.png)
+![Sepete Ekle 2](screenshots/03-sepet-ekle2.png)
 
 ## Proje Yapısı
 
